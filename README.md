@@ -16,6 +16,6 @@ Average fare per ride and average fare per driver have the opposite relationship
 
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
-Looking at the graph above, we can see that urban cities has the highest total fares, followed by suburban cities, and lastly rural cities. This is because urban cities have higher population, thus more riders and drivers, thus totaling more fares. This is less in suburban cities and even less in rural cities, given that population decreases in suburban cities and decreases further in rural cities.
+Looking at the graph above, we can see that urban cities has the highest total fares, followed by suburban cities, and lastly rural cities. This is because urban cities have higher population, thus has more riders and drivers, thus totaling more fares. This is less in suburban cities and even less in rural cities, given that population decreases in suburban cities and decreases further in rural cities.
 
 ## Challenge Summary
